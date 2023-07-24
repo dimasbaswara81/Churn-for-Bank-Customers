@@ -1,1 +1,3 @@
 # Churn-for-Bank-Customers
+
+Churn, in the context of bank customers, refers to the phenomenon where customers cease their relationship with a particular bank by closing their accounts or discontinuing the use of banking services. It is a critical metric for banks as it measures customer attrition and reflects the level of customer satisfaction and loyalty. Understanding churn patterns and identifying the reasons behind it helps banks to implement targeted strategies, such as improving customer service, offering better products, or personalized incentives, to retain existing customers and attract new ones. Managing churn is essential for a bank's long-term success and maintaining a strong customer base.
